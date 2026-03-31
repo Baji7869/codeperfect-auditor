@@ -1,0 +1,30 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "a36aef5a11c4073fbe60314fc9df530a9d5f986533594d1f5190742ff9e0e408",
+    "role": "admin",
+    "name": "Baji Shaik",
+    "role_label": "Administrator"
+  },
+  {
+    "username": "supervisor",
+    "password_hash": "04b4b063c2038952abec8e274f99a6b9a964642d3cf5e98707aae82148f29f05",
+    "role": "supervisor",
+    "name": "Teja Sarat D",
+    "role_label": "Supervisor"
+  },
+  {
+    "username": "coder1",
+    "password_hash": "e4f9fd86e702614894cd3a0ead4d6710de724646c5088adc19043fbe45ab4e1d",
+    "role": "coder",
+    "name": "Nitish Kumar M",
+    "role_label": "Medical Coder"
+  },
+  {
+    "username": "demo",
+    "password_hash": "6269bdc44514c668efb1ee9442d68ac81c662367fa36c1883e3027ee197f4036",
+    "role": "demo",
+    "name": "Demo User",
+    "role_label": "Demo User"
+  }
+]
